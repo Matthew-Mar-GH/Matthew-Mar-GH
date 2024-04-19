@@ -5,6 +5,8 @@
 <p align="left">
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=matthew-mar-gh&show_icons=true&locale=en&layout=compact" alt="matthew-mar-gh" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=matthew-mar-gh&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="matthew-mar-gh" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=matthew-mar-gh&show_icons=true&locale=en" alt="matthew-mar-gh" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=matthew-mar-gh&show_icons=true&theme=synthwave&locale=en" alt="matthew-mar-gh" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=matthew-mar-gh&theme=dark" alt="matthew-mar-gh" /></p>
